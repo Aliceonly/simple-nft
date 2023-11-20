@@ -1,9 +1,9 @@
 const nftsMetadata = [
   {
-    description: "It's actually an AJ?",
+    description: "B200601-LWQ",
     external_url: "https://austingriffith.com/portfolio/paintings/", // <-- this can link to a page for the specific file too
-    image: "https://s2.loli.net/2023/11/09/a9Lup3yx8CBSJqw.jpg",
-    name: "TZY's AJ",
+    image: "https://i.imgs.ovh/2023/11/20/HIac2.jpeg",
+    name: "LWQ's NFT",
     attributes: [
       {
         trait_type: "BackgroundColor",
@@ -20,10 +20,10 @@ const nftsMetadata = [
     ],
   },
   {
-    description: "Malo is life",
+    description: "True or False",
     external_url: "https://austingriffith.com/portfolio/paintings/", // <-- this can link to a page for the specific file too
-    image: "https://s2.loli.net/2023/11/09/YTRQUaKAnXH2smu.jpg",
-    name: "Malo",
+    image: "https://i.imgs.ovh/2023/11/20/HIvqj.jpeg",
+    name: "LWQ's NFT",
     attributes: [
       {
         trait_type: "BackgroundColor",
@@ -39,46 +39,46 @@ const nftsMetadata = [
       },
     ],
   },
-  // {
-  //   description: "What a horn!",
-  //   external_url: "https://austingriffith.com/portfolio/paintings/", // <-- this can link to a page for the specific file too
-  //   image: "https://austingriffith.com/images/paintings/rhino.jpg",
-  //   name: "Rhino",
-  //   attributes: [
-  //     {
-  //       trait_type: "BackgroundColor",
-  //       value: "pink",
-  //     },
-  //     {
-  //       trait_type: "Eyes",
-  //       value: "googly",
-  //     },
-  //     {
-  //       trait_type: "Stamina",
-  //       value: 22,
-  //     },
-  //   ],
-  // },
-  // {
-  //   description: "Is that an underbyte?",
-  //   external_url: "https://austingriffith.com/portfolio/paintings/", // <-- this can link to a page for the specific file too
-  //   image: "https://austingriffith.com/images/paintings/fish.jpg",
-  //   name: "Fish",
-  //   attributes: [
-  //     {
-  //       trait_type: "BackgroundColor",
-  //       value: "blue",
-  //     },
-  //     {
-  //       trait_type: "Eyes",
-  //       value: "googly",
-  //     },
-  //     {
-  //       trait_type: "Stamina",
-  //       value: 15,
-  //     },
-  //   ],
-  // },
+  {
+    description: "What a horn!",
+    external_url: "https://austingriffith.com/portfolio/paintings/", // <-- this can link to a page for the specific file too
+    image: "https://i.imgs.ovh/2023/11/20/HhPSV.jpeg",
+    name: "DayLight",
+    attributes: [
+      {
+        trait_type: "BackgroundColor",
+        value: "pink",
+      },
+      {
+        trait_type: "Eyes",
+        value: "googly",
+      },
+      {
+        trait_type: "Stamina",
+        value: 22,
+      },
+    ],
+  },
+  {
+    description: "Is that an underbyte?",
+    external_url: "https://austingriffith.com/portfolio/paintings/", // <-- this can link to a page for the specific file too
+    image: "https://i.imgs.ovh/2023/11/20/HhCHI.jpeg",
+    name: "Sunshine",
+    attributes: [
+      {
+        trait_type: "BackgroundColor",
+        value: "blue",
+      },
+      {
+        trait_type: "Eyes",
+        value: "googly",
+      },
+      {
+        trait_type: "Stamina",
+        value: 15,
+      },
+    ],
+  },
   // {
   //   description: "So delicate.",
   //   external_url: "https://austingriffith.com/portfolio/paintings/", // <-- this can link to a page for the specific file too
